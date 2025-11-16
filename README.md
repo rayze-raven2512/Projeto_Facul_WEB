@@ -12,9 +12,9 @@ A estrutura do site é dividida em:
 
 1.  Cabeçalho (`<header>`): Contém o nome do PetShop e a navegação principal para as seções de conteúdo.
 2.  Corpo Principal (`<main>`):
-      Visualização de Produtos: Apresenta 3 categorias de produtos (Acessórios, Rações e Higiene), com no mínimo dois itens em cada. Cada item exibe imagem, descrição e valor.
-      Visualização de Serviços: Detalha as duas modalidades de Banho e Tosa (com e sem Tele-busca), com descrição e valor.
-3.  Rodapé (`<footer>`): Contém informações de contato, endereço e dados de autoria do projeto.
+   Visualização de Produtos: Apresenta 3 categorias de produtos (Acessórios, Rações e Higiene), com no mínimo dois itens em cada. Cada item exibe imagem, descrição e valor.
+   Visualização de Serviços: Detalha as duas modalidades de Banho e Tosa (com e sem Tele-busca), com descrição e valor.
+4.  Rodapé (`<footer>`): Contém informações de contato, endereço e dados de autoria do projeto.
 
 Links para a Entrega
 
